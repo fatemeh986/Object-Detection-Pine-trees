@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 7,
+        "width": 736,
+        "height": 1104,
+        "file_name": "These are the best small garden trees.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    49,
+                    90,
+                    684,
+                    90,
+                    684,
+                    1039,
+                    49,
+                    1039
+                ]
+            ],
+            "area": 602615,
+            "bbox": [
+                49,
+                90,
+                635,
+                949
+            ],
+            "iscrowd": 0,
+            "id": 7,
+            "image_id": 7,
+            "category_id": 4
+        }
+    ]
+}

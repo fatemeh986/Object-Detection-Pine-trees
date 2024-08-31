@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 26,
+        "width": 4874,
+        "height": 3181,
+        "file_name": "pexels-eberhard-grossgasteiger-568242.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    243,
+                    173,
+                    1780,
+                    173,
+                    1780,
+                    2960,
+                    243,
+                    2960
+                ]
+            ],
+            "area": 4283619,
+            "bbox": [
+                243,
+                173,
+                1537,
+                2787
+            ],
+            "iscrowd": 0,
+            "id": 26,
+            "image_id": 26,
+            "category_id": 4
+        }
+    ]
+}

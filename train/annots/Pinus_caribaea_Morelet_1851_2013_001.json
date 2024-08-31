@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 17,
+        "width": 3240,
+        "height": 4320,
+        "file_name": "Pinus_caribaea_Morelet_1851_2013_001.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    300,
+                    139,
+                    2853,
+                    139,
+                    2853,
+                    3811,
+                    300,
+                    3811
+                ]
+            ],
+            "area": 9374616,
+            "bbox": [
+                300,
+                139,
+                2553,
+                3672
+            ],
+            "iscrowd": 0,
+            "id": 17,
+            "image_id": 17,
+            "category_id": 4
+        }
+    ]
+}

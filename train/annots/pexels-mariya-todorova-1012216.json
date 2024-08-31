@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 24,
+        "width": 6000,
+        "height": 4000,
+        "file_name": "pexels-mariya-todorova-1012216.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    1702,
+                    1376,
+                    2773,
+                    1376,
+                    2773,
+                    3945,
+                    1702,
+                    3945
+                ]
+            ],
+            "area": 2751399,
+            "bbox": [
+                1702,
+                1376,
+                1071,
+                2569
+            ],
+            "iscrowd": 0,
+            "id": 24,
+            "image_id": 24,
+            "category_id": 4
+        }
+    ]
+}

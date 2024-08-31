@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 32,
+        "width": 602,
+        "height": 337,
+        "file_name": "main-qimg-5bf544337257c2bab1f6207d78992f86.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    342,
+                    6,
+                    540,
+                    6,
+                    540,
+                    319,
+                    342,
+                    319
+                ]
+            ],
+            "area": 61974,
+            "bbox": [
+                342,
+                6,
+                198,
+                313
+            ],
+            "iscrowd": 0,
+            "id": 32,
+            "image_id": 32,
+            "category_id": 4
+        }
+    ]
+}

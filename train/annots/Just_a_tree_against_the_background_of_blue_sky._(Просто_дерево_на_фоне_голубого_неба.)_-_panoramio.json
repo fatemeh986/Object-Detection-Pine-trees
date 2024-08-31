@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 33,
+        "width": 1944,
+        "height": 3456,
+        "file_name": "Just_a_tree_against_the_background_of_blue_sky._(\u041f\u0440\u043e\u0441\u0442\u043e_\u0434\u0435\u0440\u0435\u0432\u043e_\u043d\u0430_\u0444\u043e\u043d\u0435_\u0433\u043e\u043b\u0443\u0431\u043e\u0433\u043e_\u043d\u0435\u0431\u0430.)_-_panoramio.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    404,
+                    141,
+                    1470,
+                    141,
+                    1470,
+                    3397,
+                    404,
+                    3397
+                ]
+            ],
+            "area": 3470896,
+            "bbox": [
+                404,
+                141,
+                1066,
+                3256
+            ],
+            "iscrowd": 0,
+            "id": 33,
+            "image_id": 33,
+            "category_id": 4
+        }
+    ]
+}

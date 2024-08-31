@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 5,
+        "width": 421,
+        "height": 600,
+        "file_name": "Transparent Pine Tree PNG Clipart.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    14,
+                    5,
+                    419,
+                    5,
+                    419,
+                    566,
+                    14,
+                    566
+                ]
+            ],
+            "area": 227205,
+            "bbox": [
+                14,
+                5,
+                405,
+                561
+            ],
+            "iscrowd": 0,
+            "id": 5,
+            "image_id": 5,
+            "category_id": 4
+        }
+    ]
+}

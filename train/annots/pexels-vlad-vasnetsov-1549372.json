@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 23,
+        "width": 6016,
+        "height": 4016,
+        "file_name": "pexels-vlad-vasnetsov-1549372.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    973,
+                    225,
+                    3430,
+                    225,
+                    3430,
+                    3274,
+                    973,
+                    3274
+                ]
+            ],
+            "area": 7491393,
+            "bbox": [
+                973,
+                225,
+                2457,
+                3049
+            ],
+            "iscrowd": 0,
+            "id": 23,
+            "image_id": 23,
+            "category_id": 4
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 34,
+        "width": 427,
+        "height": 259,
+        "file_name": "Japanese_Black_Pine,_National_Garden,_Tokyo.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    72,
+                    12,
+                    397,
+                    12,
+                    397,
+                    242,
+                    72,
+                    242
+                ]
+            ],
+            "area": 74750,
+            "bbox": [
+                72,
+                12,
+                325,
+                230
+            ],
+            "iscrowd": 0,
+            "id": 34,
+            "image_id": 34,
+            "category_id": 4
+        }
+    ]
+}

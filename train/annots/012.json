@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 152,
+        "width": 600,
+        "height": 400,
+        "file_name": "012.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    80,
+                    66,
+                    168,
+                    66,
+                    168,
+                    390,
+                    80,
+                    390
+                ]
+            ],
+            "area": 28512,
+            "bbox": [
+                80,
+                66,
+                88,
+                324
+            ],
+            "iscrowd": 0,
+            "id": 152,
+            "image_id": 152,
+            "category_id": 4
+        }
+    ]
+}

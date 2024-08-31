@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 124,
+        "width": 640,
+        "height": 800,
+        "file_name": "e6e98c28-e39c-47e9-bb55-305b095dc1fd.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    42,
+                    5,
+                    206,
+                    5,
+                    206,
+                    743,
+                    42,
+                    743
+                ]
+            ],
+            "area": 121032,
+            "bbox": [
+                42,
+                5,
+                164,
+                738
+            ],
+            "iscrowd": 0,
+            "id": 124,
+            "image_id": 124,
+            "category_id": 4
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+/env
+/build
+converted_json-region/
+dist/
+logs/
+mask_rcnn_tf2.egg-info/
+mrcnn/
+object detection/
+Object-Detection-Pine-trees/
+traintest/
+converted_json-region.zip
+*.jpg
+test.py
+test2.py
+prediction (2).py
+mask_rcnn_pine_cfg_0001.h5
+PineTree.json
+mask-rcnn-prediction.py
+mask_rcnn_coco.h5

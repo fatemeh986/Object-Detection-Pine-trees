@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 30,
+        "width": 329,
+        "height": 600,
+        "file_name": "Norfolk Island Pine.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    34,
+                    24,
+                    301,
+                    24,
+                    301,
+                    540,
+                    34,
+                    540
+                ]
+            ],
+            "area": 137772,
+            "bbox": [
+                34,
+                24,
+                267,
+                516
+            ],
+            "iscrowd": 0,
+            "id": 30,
+            "image_id": 30,
+            "category_id": 4
+        }
+    ]
+}

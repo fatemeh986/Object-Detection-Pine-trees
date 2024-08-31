@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 15,
+        "width": 715,
+        "height": 800,
+        "file_name": "Pinus_koraiensis.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    19,
+                    26,
+                    697,
+                    26,
+                    697,
+                    761,
+                    19,
+                    761
+                ]
+            ],
+            "area": 498330,
+            "bbox": [
+                19,
+                26,
+                678,
+                735
+            ],
+            "iscrowd": 0,
+            "id": 15,
+            "image_id": 15,
+            "category_id": 4
+        }
+    ]
+}

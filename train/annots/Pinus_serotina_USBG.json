@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 12,
+        "width": 853,
+        "height": 1280,
+        "file_name": "Pinus_serotina_USBG.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    61,
+                    130,
+                    777,
+                    130,
+                    777,
+                    1068,
+                    61,
+                    1068
+                ]
+            ],
+            "area": 671608,
+            "bbox": [
+                61,
+                130,
+                716,
+                938
+            ],
+            "iscrowd": 0,
+            "id": 12,
+            "image_id": 12,
+            "category_id": 4
+        }
+    ]
+}

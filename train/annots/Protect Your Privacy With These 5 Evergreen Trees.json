@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 9,
+        "width": 736,
+        "height": 981,
+        "file_name": "Protect Your Privacy With These 5 Evergreen Trees.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    208,
+                    17,
+                    461,
+                    17,
+                    461,
+                    954,
+                    208,
+                    954
+                ]
+            ],
+            "area": 237061,
+            "bbox": [
+                208,
+                17,
+                253,
+                937
+            ],
+            "iscrowd": 0,
+            "id": 9,
+            "image_id": 9,
+            "category_id": 4
+        }
+    ]
+}

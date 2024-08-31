@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 29,
+        "width": 736,
+        "height": 981,
+        "file_name": "Norfolk Island Pine for Christmas and Beyond.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    266,
+                    145,
+                    730,
+                    145,
+                    730,
+                    878,
+                    266,
+                    878
+                ]
+            ],
+            "area": 340112,
+            "bbox": [
+                266,
+                145,
+                464,
+                733
+            ],
+            "iscrowd": 0,
+            "id": 29,
+            "image_id": 29,
+            "category_id": 4
+        }
+    ]
+}

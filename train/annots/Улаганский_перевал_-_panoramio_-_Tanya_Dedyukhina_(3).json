@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 1,
+        "width": 4608,
+        "height": 3456,
+        "file_name": "\u0423\u043b\u0430\u0433\u0430\u043d\u0441\u043a\u0438\u0439_\u043f\u0435\u0440\u0435\u0432\u0430\u043b_-_panoramio_-_Tanya_Dedyukhina_(3).jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    29,
+                    234,
+                    1786,
+                    234,
+                    1786,
+                    3431,
+                    29,
+                    3431
+                ]
+            ],
+            "area": 5617129,
+            "bbox": [
+                29,
+                234,
+                1757,
+                3197
+            ],
+            "iscrowd": 0,
+            "id": 1,
+            "image_id": 1,
+            "category_id": 4
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 22,
+        "width": 500,
+        "height": 750,
+        "file_name": "Photo (Think North).jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    164,
+                    83,
+                    336,
+                    83,
+                    336,
+                    598,
+                    164,
+                    598
+                ]
+            ],
+            "area": 88580,
+            "bbox": [
+                164,
+                83,
+                172,
+                515
+            ],
+            "iscrowd": 0,
+            "id": 22,
+            "image_id": 22,
+            "category_id": 4
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 28,
+        "width": 4272,
+        "height": 2848,
+        "file_name": "pexels-baskin-creative-studios-1766853.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    126,
+                    43,
+                    961,
+                    43,
+                    961,
+                    2230,
+                    126,
+                    2230
+                ]
+            ],
+            "area": 1826145,
+            "bbox": [
+                126,
+                43,
+                835,
+                2187
+            ],
+            "iscrowd": 0,
+            "id": 28,
+            "image_id": 28,
+            "category_id": 4
+        }
+    ]
+}

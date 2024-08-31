@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 69,
+        "width": 183,
+        "height": 276,
+        "file_name": "images - 2020-02-02T153230.005.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    74,
+                    24,
+                    179,
+                    24,
+                    179,
+                    265,
+                    74,
+                    265
+                ]
+            ],
+            "area": 25305,
+            "bbox": [
+                74,
+                24,
+                105,
+                241
+            ],
+            "iscrowd": 0,
+            "id": 69,
+            "image_id": 69,
+            "category_id": 4
+        }
+    ]
+}

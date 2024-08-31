@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 132,
+        "width": 183,
+        "height": 275,
+        "file_name": "download (43).jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    122,
+                    200,
+                    144,
+                    200,
+                    144,
+                    250,
+                    122,
+                    250
+                ]
+            ],
+            "area": 1100,
+            "bbox": [
+                122,
+                200,
+                22,
+                50
+            ],
+            "iscrowd": 0,
+            "id": 132,
+            "image_id": 132,
+            "category_id": 4
+        }
+    ]
+}

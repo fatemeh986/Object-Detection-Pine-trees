@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 123,
+        "width": 544,
+        "height": 728,
+        "file_name": "Forest Service - Photo of a subalpine fir tree.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    141,
+                    1,
+                    467,
+                    1,
+                    467,
+                    720,
+                    141,
+                    720
+                ]
+            ],
+            "area": 234394,
+            "bbox": [
+                141,
+                1,
+                326,
+                719
+            ],
+            "iscrowd": 0,
+            "id": 123,
+            "image_id": 123,
+            "category_id": 4
+        }
+    ]
+}

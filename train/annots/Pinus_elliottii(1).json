@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 16,
+        "width": 2304,
+        "height": 2340,
+        "file_name": "Pinus_elliottii(1).jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    52,
+                    63,
+                    2273,
+                    63,
+                    2273,
+                    2085,
+                    52,
+                    2085
+                ]
+            ],
+            "area": 4490862,
+            "bbox": [
+                52,
+                63,
+                2221,
+                2022
+            ],
+            "iscrowd": 0,
+            "id": 16,
+            "image_id": 16,
+            "category_id": 4
+        }
+    ]
+}

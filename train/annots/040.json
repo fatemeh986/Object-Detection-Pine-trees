@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 143,
+        "width": 600,
+        "height": 400,
+        "file_name": "040.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    94,
+                    28,
+                    257,
+                    28,
+                    257,
+                    399,
+                    94,
+                    399
+                ]
+            ],
+            "area": 60473,
+            "bbox": [
+                94,
+                28,
+                163,
+                371
+            ],
+            "iscrowd": 0,
+            "id": 143,
+            "image_id": 143,
+            "category_id": 4
+        }
+    ]
+}

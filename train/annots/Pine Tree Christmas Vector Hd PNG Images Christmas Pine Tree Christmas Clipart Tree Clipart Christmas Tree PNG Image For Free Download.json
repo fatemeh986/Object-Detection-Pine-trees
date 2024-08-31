@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 21,
+        "width": 260,
+        "height": 389,
+        "file_name": "Pine Tree Christmas Vector Hd PNG Images Christmas Pine Tree Christmas Clipart Tree Clipart Christmas Tree PNG Image For Free Download.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    12,
+                    6,
+                    250,
+                    6,
+                    250,
+                    375,
+                    12,
+                    375
+                ]
+            ],
+            "area": 87822,
+            "bbox": [
+                12,
+                6,
+                238,
+                369
+            ],
+            "iscrowd": 0,
+            "id": 21,
+            "image_id": 21,
+            "category_id": 4
+        }
+    ]
+}

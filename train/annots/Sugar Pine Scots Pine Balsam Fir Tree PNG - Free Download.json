@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 8,
+        "width": 728,
+        "height": 1029,
+        "file_name": "Sugar Pine Scots Pine Balsam Fir Tree PNG - Free Download.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    56,
+                    38,
+                    700,
+                    38,
+                    700,
+                    1016,
+                    56,
+                    1016
+                ]
+            ],
+            "area": 629832,
+            "bbox": [
+                56,
+                38,
+                644,
+                978
+            ],
+            "iscrowd": 0,
+            "id": 8,
+            "image_id": 8,
+            "category_id": 4
+        }
+    ]
+}

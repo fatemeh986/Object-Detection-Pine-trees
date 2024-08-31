@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 13,
+        "width": 4000,
+        "height": 5667,
+        "file_name": "Pinus_pinea_and_ruins_on_Palatine_Hill.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    279,
+                    1163,
+                    3279,
+                    1163,
+                    3279,
+                    5567,
+                    279,
+                    5567
+                ]
+            ],
+            "area": 13212000,
+            "bbox": [
+                279,
+                1163,
+                3000,
+                4404
+            ],
+            "iscrowd": 0,
+            "id": 13,
+            "image_id": 13,
+            "category_id": 4
+        }
+    ]
+}

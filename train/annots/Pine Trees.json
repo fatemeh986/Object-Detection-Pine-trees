@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 19,
+        "width": 460,
+        "height": 541,
+        "file_name": "Pine Trees.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    65,
+                    5,
+                    320,
+                    5,
+                    320,
+                    539,
+                    65,
+                    539
+                ]
+            ],
+            "area": 136170,
+            "bbox": [
+                65,
+                5,
+                255,
+                534
+            ],
+            "iscrowd": 0,
+            "id": 19,
+            "image_id": 19,
+            "category_id": 4
+        }
+    ]
+}

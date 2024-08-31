@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 146,
+        "width": 453,
+        "height": 600,
+        "file_name": "033.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    33,
+                    17,
+                    423,
+                    17,
+                    423,
+                    588,
+                    33,
+                    588
+                ]
+            ],
+            "area": 222690,
+            "bbox": [
+                33,
+                17,
+                390,
+                571
+            ],
+            "iscrowd": 0,
+            "id": 146,
+            "image_id": 146,
+            "category_id": 4
+        }
+    ]
+}

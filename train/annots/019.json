@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 151,
+        "width": 600,
+        "height": 311,
+        "file_name": "019.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    454,
+                    16,
+                    575,
+                    16,
+                    575,
+                    304,
+                    454,
+                    304
+                ]
+            ],
+            "area": 34848,
+            "bbox": [
+                454,
+                16,
+                121,
+                288
+            ],
+            "iscrowd": 0,
+            "id": 151,
+            "image_id": 151,
+            "category_id": 4
+        }
+    ]
+}

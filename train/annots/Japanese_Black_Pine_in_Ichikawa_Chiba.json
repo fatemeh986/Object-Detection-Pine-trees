@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 35,
+        "width": 3100,
+        "height": 1870,
+        "file_name": "Japanese_Black_Pine_in_Ichikawa_Chiba.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    1087,
+                    22,
+                    2488,
+                    22,
+                    2488,
+                    1591,
+                    1087,
+                    1591
+                ]
+            ],
+            "area": 2198169,
+            "bbox": [
+                1087,
+                22,
+                1401,
+                1569
+            ],
+            "iscrowd": 0,
+            "id": 35,
+            "image_id": 35,
+            "category_id": 4
+        }
+    ]
+}

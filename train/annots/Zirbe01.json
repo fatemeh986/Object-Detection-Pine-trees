@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 3,
+        "width": 1024,
+        "height": 1365,
+        "file_name": "Zirbe01.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    123,
+                    21,
+                    833,
+                    21,
+                    833,
+                    1334,
+                    123,
+                    1334
+                ]
+            ],
+            "area": 932230,
+            "bbox": [
+                123,
+                21,
+                710,
+                1313
+            ],
+            "iscrowd": 0,
+            "id": 3,
+            "image_id": 3,
+            "category_id": 4
+        }
+    ]
+}

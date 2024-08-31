@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 25,
+        "width": 3264,
+        "height": 4928,
+        "file_name": "pexels-jonathan-meyer-752439.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    601,
+                    67,
+                    2129,
+                    67,
+                    2129,
+                    3056,
+                    601,
+                    3056
+                ]
+            ],
+            "area": 4567192,
+            "bbox": [
+                601,
+                67,
+                1528,
+                2989
+            ],
+            "iscrowd": 0,
+            "id": 25,
+            "image_id": 25,
+            "category_id": 4
+        }
+    ]
+}

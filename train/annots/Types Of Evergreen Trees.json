@@ -1,0 +1,37 @@
+{
+    "image": {
+        "id": 4,
+        "width": 735,
+        "height": 560,
+        "file_name": "Types Of Evergreen Trees.jpg",
+        "license": 0,
+        "date_captured": ""
+    },
+    "annotations": [
+        {
+            "segmentation": [
+                [
+                    446,
+                    192,
+                    569,
+                    192,
+                    569,
+                    541,
+                    446,
+                    541
+                ]
+            ],
+            "area": 42927,
+            "bbox": [
+                446,
+                192,
+                123,
+                349
+            ],
+            "iscrowd": 0,
+            "id": 4,
+            "image_id": 4,
+            "category_id": 4
+        }
+    ]
+}

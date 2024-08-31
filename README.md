@@ -5,7 +5,7 @@ The primary codebase utilized is from [Mask-RCNN-TF2] (https://github.com/ahmedf
 Notably, the **model.py** and **utils.py** files have been updated from the Matterport/Mask_RCNN version to ensure compatibility with newer versions of libraries like TensorFlow and Keras.
 
 ## Results
-You can see the results of this project for Pine tree in train folder.
+You can see the results of this project for Pine Tree in the result folder.
 
 ## Changes Made in This Project
 ### Key Modifications:

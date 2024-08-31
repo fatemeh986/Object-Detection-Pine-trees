@@ -12,3 +12,9 @@ You can see the results of this project for Pine Tree in the results folder.
 1. Defined a root directory for reading data and downloading models. In the original code, this was handled by setting ROOT_DIR.
 2. Adjust the paths for the training and validation directories to match your specific directory structure.
 3. Customized hyperparameters such as the number of epochs and learning rate to suit the needs of your project.
+4. Using Python 3.7.9
+
+### Setup Instructions
+1. Creating a virtual environment
+2. Installing requirements-bis.txt and requirements.txt.
+3. Installing setup.py (python setup.py install)

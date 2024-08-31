@@ -4,6 +4,9 @@ pre-trained model h5 (https://github.com/matterport/Mask_RCNN/releases/download/
 The primary codebase utilized is from [Mask-RCNN-TF2] (https://github.com/ahmedfgad/Mask-RCNN-TF2). 
 Notably, the **model.py** and **utils.py** files have been updated from the Matterport/Mask_RCNN version to ensure compatibility with newer versions of libraries like TensorFlow and Keras.
 
+## Results
+You can see the results of this project for Pine tree in train folder.
+
 ## Changes Made in This Project
 ### Key Modifications:
 1. Defined a root directory for reading data and downloading models. In the original code, this was handled by setting ROOT_DIR.

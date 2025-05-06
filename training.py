@@ -8,7 +8,7 @@ import mrcnn.config
 import mrcnn.model
 from mrcnn import utils
 
-ROOT_DIR = os.path.abspath("C:/Users/fkara/OneDrive/Documents/object detection")
+ROOT_DIR = os.path.abspath("") # Add your directory path
 sys.path.append(ROOT_DIR)
 
 # Directory to save logs and trained model
